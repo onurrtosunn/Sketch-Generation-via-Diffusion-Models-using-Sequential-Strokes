@@ -65,3 +65,6 @@ Open your browser and go to http://localhost:6006 to view the training curves an
 ### Animated GIFs of Generated Sketches
 After evaluation, the project will generate and save animated GIFs of sample sketches produced by your trained models.
 These GIFs visually demonstrate how the model draws a sketch step by step.
+
+####  Cat
+![Generated Cat Sketch](generated_cat.gif)
